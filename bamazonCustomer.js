@@ -41,7 +41,8 @@ function shop(inventory) {
                         item_id: answer.productID
                     }, function (err, results) {
                         if (err) throw err;
-                        
+                        if 
+
                     }
 
                 })
