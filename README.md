@@ -6,6 +6,11 @@ This project is one of the initial MySQL project to create, read, update, and de
 
 ### screenshots
 #### BAMAZON intro
+![BAMAZON Intro](assets/bamazon_1.png)
+#### BAMAZON ordering method
+![BAMAZON Shop](assets/bamazon_2.png)
+#### BAMAZON insufficent quantity for order
+![BAMAZON insufficient quantity](assets/bamazon_3.png)
 
 ### BAMAZON supported commands and results
 * bamazon customer front
