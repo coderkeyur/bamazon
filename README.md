@@ -11,10 +11,11 @@ This project is one of the initial MySQL project to create, read, update, and de
 * bamazon customer front
     * View the items for sale
     * TO PURCHASE ITEMS
-      * Select the id of thee product you want to buy
-      * enter the quantity of the product 
+      * Select the Item_id of thee product you want to buy
+      * enter the quantity of the product
 * After purchase the database will update and display storefront with updated quantity of products. 
-* 
+* If user enters invalid amount of quantity, It will show an error and re-display the storefront. 
+
 ### Deployment
 1. Clone Repo
 2. Run npm install
@@ -26,7 +27,6 @@ This project is one of the initial MySQL project to create, read, update, and de
 * NPM dotenv
 * NPM inquirer
 * NPM MySQL
-* NPM CLI-table
 
 ### Author
 Keyur Patel
